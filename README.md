@@ -1,3 +1,1 @@
-# react-h8fmfq
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-h8fmfq)
+This is a " income tracker " using React js.
